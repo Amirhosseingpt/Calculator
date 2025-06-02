@@ -1,6 +1,4 @@
-# Calculator Project
-
-This calculator project is a web-based application built using HTML, CSS, and inline JavaScript. It features a visually appealing 3D design and is capable of performing various mathematical calculations.
+This is a calc project by html
 
 ## Features
 
